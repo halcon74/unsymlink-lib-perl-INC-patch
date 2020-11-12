@@ -12,7 +12,7 @@ This helps to preserve perl modules, installed manually or via CPAN
 (not to run manually `mv /usr/local/lib/perl5 /usr/local/lib64` after the migrating)
 
 --- a/unsymlink-lib	2020-11-10 00:54:42.000000000 +0300
-+++ a/unsymlink-lib	2020-11-12 15:49:50.336616026 +0300
++++ b/unsymlink-lib	2020-11-12 15:49:50.336616026 +0300
 @@ -152,7 +152,7 @@
          return True
      if b'.so.' in path:
