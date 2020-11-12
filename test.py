@@ -47,7 +47,7 @@
 # orphan dirs/files (not owned by any package) that will be moved... somewhere
 #        .keep
 #
-#orphan dirs/files (not owned by any package) that will be kept... somewhere
+# orphan dirs/files (not owned by any package) that will be kept... somewhere
 #        perl5
 #
 # So, the test is successful
