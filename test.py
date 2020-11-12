@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Pieces of Michal Gorny's code
+# This test contains pieces of Michal Gorny's code
 # from https://github.com/mgorny/unsymlink-lib
 # ============================
 # SYMLINK_LIB=no migration tool
