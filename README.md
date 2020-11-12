@@ -1,4 +1,4 @@
-#### Before this patch `unsymlink-lib --analyze` output contains:
+#### Without this patch `unsymlink-lib --analyze` output contains:
   
 orphan dirs/files (not owned by any package) that will be moved to /usr/local/lib/:  
         perl5  
