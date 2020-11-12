@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# This test contains pieces of Michal Gorny's code
+# This test contains pieces of Michał Górny's code
 # from https://github.com/mgorny/unsymlink-lib
 # ============================
 # SYMLINK_LIB=no migration tool
-# (c) 2017 Michal Gorny
+# (c) 2017 Michał Górny
 # Licensed under 2-clause BSD license
 # ============================
 
